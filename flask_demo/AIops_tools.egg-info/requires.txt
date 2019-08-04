@@ -1,0 +1,8 @@
+pybrain
+pandas
+sklearn
+statsmodels
+numpy
+tensorflow
+dtw
+matplotlib

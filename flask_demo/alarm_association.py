@@ -37,9 +37,6 @@ def association_analysis(event, alldata):
 
     # 生成混合集
     mixset, alarm_number, random_number = alarm_association.mixdata(alarmtime, event, timeseries)
-    #print(mixset)
-    #print(alarm_number)
-    #print(random_number)
 
     flag = alarm_association.feature_screen(mixset, alarm_number, random_number)
     print(flag)

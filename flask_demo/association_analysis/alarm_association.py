@@ -16,8 +16,7 @@ def mixdata(alarmtime, timeseries_set, timeseries):
     mixset = []
     alarm_number = 0
     random_number = 0
-    timegap = int((alarmtime[-1]-alarmtime[0]) / 600)
-    randomnum = 8 #min(len(alarmtime), int(3*timegap/4)) - 1
+    randomnum = 20
     for i in range(len(alarmtime)):
         data = timeseries_set[i]
         data.append('alarm')
@@ -83,9 +82,6 @@ def feature_screen(mixset, alarm_number, random_number):
     print("check", check)
     print("---------------------------")
     return trp
-    #if check > alapha:
-    #    return True
-    #return False
 
 
 def get_GR(alarmseries,nomalseries):

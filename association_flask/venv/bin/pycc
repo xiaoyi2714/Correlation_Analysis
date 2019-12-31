@@ -1,0 +1,3 @@
+#!/Users/yinhuifeng/Projects/lib/association_flask/venv/bin/python
+from numba.pycc import main
+main()

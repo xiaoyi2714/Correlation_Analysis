@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42438d63-f3ce-4a14-850c-fea5d7aaea7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="flask_demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/banpei" />
+  </component>
+  <component name="ProjectId" id="1OXeoljW4Zu2QoIveomw5lgeeWF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/association_analysis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.granger_causality">
+    <configuration name="ClusterTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/cluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alarm_association (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/association_analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/association_analysis/alarm_association.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alarm_association" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alarm_association.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="granger_causality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/granger_causality.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HelloWorld" />
+        <item itemvalue="Python.granger_causality" />
+        <item itemvalue="Python.ClusterTest" />
+        <item itemvalue="Python.alarm_association" />
+        <item itemvalue="Python.alarm_association (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42438d63-f3ce-4a14-850c-fea5d7aaea7d" name="Default Changelist" comment="" />
+      <created>1564128545664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564128545664</updated>
+      <workItem from="1571831507851" duration="384000" />
+      <workItem from="1571831904815" duration="851000" />
+      <workItem from="1572160299052" duration="6460000" />
+      <workItem from="1572262476886" duration="10071000" />
+      <workItem from="1572849039305" duration="548000" />
+      <workItem from="1572962708646" duration="500000" />
+      <workItem from="1573026721786" duration="467000" />
+      <workItem from="1573037369968" duration="16000" />
+      <workItem from="1573039995777" duration="1316000" />
+      <workItem from="1573139581666" duration="36637000" />
+      <workItem from="1573991544410" duration="40170000" />
+      <workItem from="1574132175962" duration="155000" />
+      <workItem from="1574132339876" duration="32193000" />
+      <workItem from="1577625050772" duration="16117000" />
+      <workItem from="1577698189051" duration="3650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1242" height="228" key="GridCell.Tab.0.bottom" timestamp="1577693175659">
+      <screen x="-1920" y="-164" width="1920" height="1057" />
+    </state>
+    <state width="992" height="190" key="GridCell.Tab.0.bottom/-1582.977.1194.811/-1920.-103.1920.1057/0.23.1280.777@-1920.-103.1920.1057" timestamp="1577637323711" />
+    <state width="1242" height="228" key="GridCell.Tab.0.bottom/-1920.-164.1920.1057/0.23.1280.777@-1920.-164.1920.1057" timestamp="1577693175659" />
+    <state width="1242" height="228" key="GridCell.Tab.0.center" timestamp="1577693175658">
+      <screen x="-1920" y="-164" width="1920" height="1057" />
+    </state>
+    <state width="992" height="190" key="GridCell.Tab.0.center/-1582.977.1194.811/-1920.-103.1920.1057/0.23.1280.777@-1920.-103.1920.1057" timestamp="1577637323710" />
+    <state width="1242" height="228" key="GridCell.Tab.0.center/-1920.-164.1920.1057/0.23.1280.777@-1920.-164.1920.1057" timestamp="1577693175658" />
+    <state width="1242" height="228" key="GridCell.Tab.0.left" timestamp="1577693175658">
+      <screen x="-1920" y="-164" width="1920" height="1057" />
+    </state>
+    <state width="992" height="190" key="GridCell.Tab.0.left/-1582.977.1194.811/-1920.-103.1920.1057/0.23.1280.777@-1920.-103.1920.1057" timestamp="1577637323710" />
+    <state width="1242" height="228" key="GridCell.Tab.0.left/-1920.-164.1920.1057/0.23.1280.777@-1920.-164.1920.1057" timestamp="1577693175658" />
+    <state width="1242" height="228" key="GridCell.Tab.0.right" timestamp="1577693175659">
+      <screen x="-1920" y="-164" width="1920" height="1057" />
+    </state>
+    <state width="992" height="190" key="GridCell.Tab.0.right/-1582.977.1194.811/-1920.-103.1920.1057/0.23.1280.777@-1920.-103.1920.1057" timestamp="1577637323711" />
+    <state width="1242" height="228" key="GridCell.Tab.0.right/-1920.-164.1920.1057/0.23.1280.777@-1920.-164.1920.1057" timestamp="1577693175659" />
+    <state x="-1573" y="89" width="837" height="550" key="find.popup" timestamp="1577625334725">
+      <screen x="-1920" y="-164" width="1920" height="1057" />
+    </state>
+    <state x="-1573" y="89" width="837" height="550" key="find.popup/-1920.-164.1920.1057/0.23.1280.777@-1920.-164.1920.1057" timestamp="1577625334725" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/association_flask$alarm_association.coverage" NAME="alarm_association Coverage Results" MODIFIED="1572318000086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/association_flask$ClusterTest.coverage" NAME="ClusterTest Coverage Results" MODIFIED="1574086264964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/association_flask$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1577680001872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/association_flask$granger_causality.coverage" NAME="granger_causality Coverage Results" MODIFIED="1577635069709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>

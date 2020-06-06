@@ -1,0 +1,3 @@
+#!/Users/yinhuifeng/Projects/muti-cluster/venv/bin/python
+from numba.pycc import main
+main()
